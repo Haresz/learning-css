@@ -1,0 +1,23 @@
+.underline h3{
+    text-decoration: underline;
+}
+
+li{
+    line-height: 2rem;
+}
+
+li:nth-child(2){
+    text-decoration: underline solid;
+}
+li:nth-child(3){
+    text-decoration: underline dashed;
+}
+li:nth-child(4){
+    text-decoration: underline dotted;
+}
+li:nth-child(5){
+    text-decoration: underline double;
+}
+li:nth-child(6){
+    text-decoration: underline wavy;
+}
